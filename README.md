@@ -63,14 +63,14 @@
 x0 = transpose([0 9])
 ```
 
-<a href="https://ibb.co/mHbP1K"><img src="https://preview.ibb.co/dAVj1K/Screen_Shot_2018_03_23_at_2_15_54_AM.png" alt="Screen Shot 2018 03 23 at 2 15 54 AM" border="0" height="300" width="400"/></a>
+<a href="https://ibb.co/mHbP1K"><img src="https://preview.ibb.co/dAVj1K/Screen_Shot_2018_03_23_at_2_15_54_AM.png" alt="Screen Shot 2018 03 23 at 2 15 54 AM" border="0" height="340" width="400"/></a>
 <br />
 
 ```
 x0 = transpose([0 -5])
 ```
 
-<a href="https://ibb.co/hX4BgK"><img src="https://preview.ibb.co/n28tve/Screen_Shot_2018_03_23_at_2_17_03_AM.png" alt="Screen Shot 2018 03 23 at 2 17 03 AM" border="0" height="300" width="400"/></a>
+<a href="https://ibb.co/hX4BgK"><img src="https://preview.ibb.co/n28tve/Screen_Shot_2018_03_23_at_2_17_03_AM.png" alt="Screen Shot 2018 03 23 at 2 17 03 AM" border="0" height="340" width="400"/></a>
 
 #### The two different starting points produce such different results
 
