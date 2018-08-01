@@ -1,7 +1,7 @@
 ## Extended Kalman Filter (EKF)
 <br />
 
-*This is a class project which create a extended Kalman filter (EKF)*<br />
+*This is a class project which create a <a href="https://en.wikipedia.org/wiki/Extended_Kalman_filter">extended Kalman filter (EKF)</a>*<br />
 *The plant model and the measurement model are non-linear in this project*
 <br />
 <br />
